@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -22,3 +23,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+git.html
+>>>>>>> 93312d1680afcaf6aa76558de0791c51bed4ca52
